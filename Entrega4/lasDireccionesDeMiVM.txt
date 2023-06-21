@@ -1,0 +1,11 @@
+punto 1
+ip privada: 10.0.2.15 
+ip publica: 181.189.25.59 
+
+punto 2
+mac: 08:00:27:fd:c0:e3
+
+punto 3 
+
+si, porque la ip publica se usa para interactuar con internet mientras que la privada operan con
+una red local
